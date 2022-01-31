@@ -1,7 +1,7 @@
 # Draft Code of Conduct
 
 ## Preface
-We want a healthy community where people feel psychologically safe in knowing others, working with tech, and contributing to NGINX. We recognize human interpersonal dynamics can be tricky, so we want to codify our guidelines on behavior and interactions with one another.
+We want a healthy community where people feel psychologically safe in knowing others, working with tech, and contributing to NGINX. We recognize human interpersonal dynamics can be tricky, so we want to codify our guidelines on behavior and interactions with one another. This Code of Conduct is a work in progress that we hope to develop with our community.
 
 ## Our Pledge
 
