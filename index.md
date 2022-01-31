@@ -1,5 +1,8 @@
 # Draft Code of Conduct
 
+## Preface
+We want a healthy community where people feel psychologically safe in knowing others, working with tech, and contributing to NGINX. We recognize human interpersonal dynamics can be tricky, so we want to codify our guidelines on behavior and interactions with one another.
+
 ## Our Pledge
 
 As NGINX is dedicated to fostering an inclusive and welcoming environment, we commit to making participation in our community a harassment-free experience for everyone, regardless of age, body size, neuro(a)typicality, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education level, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation. We strive for technological excellence, which is found where individuals feel psychologically safe when interacting with one another, contributing to the community, and supporting each other in education and use of NGINX technology. We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community. 
