@@ -1,37 +1,43 @@
-## Welcome to GitHub Pages
+# Draft Code of Conduct
 
-You can use the [editor on GitHub](https://github.com/heo33/heo33.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Our Pledge
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+As NGINX is dedicated to fostering an inclusive and welcoming environment, we commit to making participation in our community a harassment-free experience for everyone, regardless of age, body size, neuro(a)typicality, disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education level, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation. We strive for technological excellence, which is found where individuals feel psychologically safe when interacting with one another, contributing to the community, and supporting each other in education and use of NGINX technology. We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community. 
 
-### Markdown
+We value our community's input and welcome suggestions for this Code of Conduct.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Our Standards: Good Behavior 
 
-```markdown
-Syntax highlighted code block
+_Examples of behavior that contributes to creating a positive environment include_:
+- Using welcoming and inclusive language
+- Being respectful of differing viewpoints and experiences
+- Gracefully accepting constructive criticism
+- Focusing on what is best for the community, and prioritizing marginalized people's safety
+- Showing empathy towards other community members
+- Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+## Our Standards: Unacceptable Behavior
 
-1. Numbered
-2. List
+_Examples of behavior that is unacceptable in the NGINX community_:
+- The use of sexualized language or imagery and unwelcome sexual attention or advances
+- Trolling, insulting/derogatory comments, and personal or political attacks
+- Public or private harassment
+- Publishing others' private information, such as a physical or electronic address, without explicit permission (doxxing)
+- Other conduct which could reasonably be considered inappropriate in a professional setting
+- Unwelcome comments regarding a person's lifestyle choices and practices, including those related to food, health, parenting, or employment
 
-**Bold** and _Italic_ and `Code` text
+## Scope
+This Code of Conduct applies to all NGINX community spaces, both online and offline, including but not limited to the NGINX community Slack, the NGINX forum, our mailing lists and IRC channel, and NGINX events.
 
-[Link](url) and ![Image](src)
-```
+While this Code of Conduct applies to NGINX spaces, we still want to know if you are being harassed by a member of the NGINX community outside our spaces. We will take all good-faith reports of harassment by NGINX members seriously.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Enforcement
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the project team at [our email]. All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. NGINX community moderators are obligated to maintain confidentiality with regard to the reporter of an incident, commit to confidentiality when requested, commit to reasonable response time, and transparency around following steps. Participants asked to stop any harassing behavior are expected to comply immediately.
 
-### Jekyll Themes
+The NGINX moderation team is Hannah Neil, Libby Meren, Dave McAllister, and Roberto Cardona 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/heo33/heo33.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Attribution
+This Code of Conduct is adapted from the [Contributor Covenant, version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html). It is also influenced by the [Geek Feminism Code of Conduct](https://opensource.microsoft.com/codeofconduct/), Microsoft Open Source Code of Conduct, and [Mozilla's Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
